@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/coding-newbies/static/css/main.cc2e2660.css",
+    "main.js": "/coding-newbies/static/js/main.3e990cc1.js",
+    "static/js/453.8ab44547.chunk.js": "/coding-newbies/static/js/453.8ab44547.chunk.js",
+    "static/media/logo.svg": "/coding-newbies/static/media/logo.bea6bb442e6115f68a88559099d34cd8.svg",
+    "index.html": "/coding-newbies/index.html",
+    "main.cc2e2660.css.map": "/coding-newbies/static/css/main.cc2e2660.css.map",
+    "main.3e990cc1.js.map": "/coding-newbies/static/js/main.3e990cc1.js.map",
+    "453.8ab44547.chunk.js.map": "/coding-newbies/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc2e2660.css",
+    "static/js/main.3e990cc1.js"
+  ]
+}
