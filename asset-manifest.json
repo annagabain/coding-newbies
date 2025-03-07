@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/coding-newbies/static/css/main.cc2e2660.css",
-    "main.js": "/coding-newbies/static/js/main.ff108d0d.js",
+    "main.css": "/coding-newbies/static/css/main.1d8da9aa.css",
+    "main.js": "/coding-newbies/static/js/main.4fcb0960.js",
     "static/js/453.8ab44547.chunk.js": "/coding-newbies/static/js/453.8ab44547.chunk.js",
     "static/media/logo.svg": "/coding-newbies/static/media/logo.bea6bb442e6115f68a88559099d34cd8.svg",
     "index.html": "/coding-newbies/index.html",
-    "main.cc2e2660.css.map": "/coding-newbies/static/css/main.cc2e2660.css.map",
-    "main.ff108d0d.js.map": "/coding-newbies/static/js/main.ff108d0d.js.map",
+    "main.1d8da9aa.css.map": "/coding-newbies/static/css/main.1d8da9aa.css.map",
+    "main.4fcb0960.js.map": "/coding-newbies/static/js/main.4fcb0960.js.map",
     "453.8ab44547.chunk.js.map": "/coding-newbies/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc2e2660.css",
-    "static/js/main.ff108d0d.js"
+    "static/css/main.1d8da9aa.css",
+    "static/js/main.4fcb0960.js"
   ]
 }
