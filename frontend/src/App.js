@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Register from './Register';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <p>
           Contact me for registration and questions about the course at anna.gabain@outlook.com
         </p>
+        {/* <Register/> */}
         {/* <a
           className="App-link"
           href="https://reactjs.org"
